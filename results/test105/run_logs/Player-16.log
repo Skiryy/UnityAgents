@@ -1,0 +1,810 @@
+Mono path[0] = 'E:/UnityRobotBuilds/UnityRobot_Data/Managed'
+Mono config path = 'E:/UnityRobotBuilds/MonoBleedingEdge/etc'
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Initialize engine version: 2022.3.14f1 (eff2de9070d8)
+[Subsystems] Discovering subsystems at path E:/UnityRobotBuilds/UnityRobot_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 (ID=0x2184)
+    Vendor:   NVIDIA
+    VRAM:     5980 MB
+    Driver:   31.0.15.3640
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  4.134 seconds
+- Finished resetting the current domain, in  0.003 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.667400 ms
+Failed! Reward: -54.97533
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.51142
+Failed! Reward: -54.92958
+Failed! Reward: -50.49351
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.5357
+Failed! Reward: -54.96963
+Failed! Reward: -55
+Failed! Reward: -49.45805
+Failed! Reward: -54.19817
+Failed! Reward: -54.40448
+Failed! Reward: -55
+Failed! Reward: -50.20979
+Failed! Reward: -54.29933
+Failed! Reward: -55
+Failed! Reward: -55.00576
+Failed! Reward: -55
+Failed! Reward: -55.35925
+Failed! Reward: -55
+Failed! Reward: -65.47338
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -52.9149
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.95429
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.35727
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.99416
+Failed! Reward: -55
+Failed! Reward: -50.39894
+Failed! Reward: -54.96224
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -53.58556
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -40.2148
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55.6492
+Failed! Reward: -50.04265
+Failed! Reward: -55
+Failed! Reward: -72.13734
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -52.92098
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -49.3616
+Failed! Reward: -54.26498
+Failed! Reward: -54.0565
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -43.2544
+Failed! Reward: -48.09198
+Failed! Reward: -55
+Failed! Reward: -54.8294
+Failed! Reward: -55
+Failed! Reward: -54.46149
+Failed! Reward: -12.26376
+Failed! Reward: -55
+Failed! Reward: -54.90958
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -39.54408
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55.02041
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -58.92437
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -53.84936
+Failed! Reward: -55
+Failed! Reward: -15.8999
+Failed! Reward: -55
+Failed! Reward: -52.93967
+Failed! Reward: -48.76684
+Failed! Reward: -55
+Failed! Reward: -54.19193
+Failed! Reward: -54.9457
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -53.56783
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.87724
+Failed! Reward: -55
+Failed! Reward: -50.85662
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -53.57072
+Failed! Reward: -55.30647
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.92878
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -53.47108
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.98219
+Failed! Reward: -53.75349
+Failed! Reward: -55.43604
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -56.37011
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.93607
+Failed! Reward: -51.50275
+Failed! Reward: -51.6358
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.95979
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -38.10044
+Failed! Reward: -54.41446
+Failed! Reward: -53.18705
+Failed! Reward: -54.92565
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -56.14859
+Failed! Reward: -54.41627
+Failed! Reward: -55.33267
+Failed! Reward: -55
+Failed! Reward: -54.98009
+Failed! Reward: -55
+Failed! Reward: -58.65534
+Failed! Reward: -55
+Failed! Reward: -52.15437
+Failed! Reward: -55
+Failed! Reward: -54.80132
+Failed! Reward: -52.00298
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -51.19239
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.97325
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55.23444
+Failed! Reward: -54.87218
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.98768
+Failed! Reward: -55
+Failed! Reward: -52.81555
+Failed! Reward: -55
+Failed! Reward: -101.762
+Failed! Reward: -55
+Failed! Reward: -54.95374
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -52.40346
+Failed! Reward: -55
+Failed! Reward: -54.95184
+Failed! Reward: -51.9852
+Failed! Reward: -55
+Failed! Reward: -54.90511
+Failed! Reward: -55.26926
+Failed! Reward: -52.82658
+Failed! Reward: -54.95872
+Failed! Reward: -55
+Failed! Reward: -52.34412
+Failed! Reward: -54.98392
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55.57713
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -51.75403
+Failed! Reward: -54.79494
+Failed! Reward: -55
+Failed! Reward: -55.37005
+Failed! Reward: -55
+Failed! Reward: -53.02178
+Failed! Reward: -54.03001
+Failed! Reward: -20.52727
+Failed! Reward: -54.90055
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -66.22031
+Failed! Reward: -58.72675
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55.01682
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -70.52734
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -49.74786
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -53.42748
+Failed! Reward: -53.16825
+Failed! Reward: -54.93085
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -42.16651
+Failed! Reward: -55
+Failed! Reward: -52.849
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -50.82791
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.86817
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -14.34751
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55.02046
+Failed! Reward: -48.84451
+Failed! Reward: -53.14127
+Failed! Reward: -54.99163
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -50.77691
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55.76365
+Failed! Reward: -55.11305
+Failed! Reward: -55
+Failed! Reward: -54.98445
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -52.9927
+Failed! Reward: -54.90179
+Failed! Reward: -2.782425
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -47.17113
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.87218
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -53.85574
+Failed! Reward: -50.96186
+Failed! Reward: -53.21183
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.95173
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -36.0434
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -53.95332
+Failed! Reward: -54.97576
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -50.47659
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -48.71632
+Failed! Reward: -61.20472
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -52.38356
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.95601
+Failed! Reward: -50.56653
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -39.70258
+Failed! Reward: -54.91063
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -53.16545
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -56.54623
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -43.88137
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.94769
+Failed! Reward: -53.99939
+Failed! Reward: -55
+Failed! Reward: -48.98016
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.9324
+Failed! Reward: -55
+Failed! Reward: -53.07016
+Failed! Reward: -44.21857
+Failed! Reward: -55
+Failed! Reward: -52.75342
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -31.45309
+Failed! Reward: -55
+Failed! Reward: -54.94142
+Failed! Reward: -81.88359
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -58.19643
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55.82478
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -37.82549
+Failed! Reward: -14.08937
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -52.73785
+Failed! Reward: -54.39955
+Failed! Reward: -55
+Failed! Reward: -54.94456
+Failed! Reward: -54.90425
+Failed! Reward: -55
+Failed! Reward: -53.53249
+Failed! Reward: -54.90584
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -51.30027
+Failed! Reward: -54.43729
+Failed! Reward: -54.76463
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -53.40211
+Failed! Reward: -55
+Failed! Reward: -34.58006
+Failed! Reward: -50.64498
+Failed! Reward: -55
+Failed! Reward: -128.2364
+Failed! Reward: -53.8198
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55.0137
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -49.72269
+Failed! Reward: -54.88495
+Failed! Reward: -55
+Failed! Reward: -53.69972
+Failed! Reward: -94.34593
+Failed! Reward: -55
+Failed! Reward: -65.90139
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -49.1313
+Failed! Reward: -53.61292
+Failed! Reward: -53.71323
+Failed! Reward: -55
+Failed! Reward: -55.25555
+Failed! Reward: -54.72545
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -52.35523
+Failed! Reward: -53.16407
+Failed! Reward: -53.79118
+Failed! Reward: -58.81113
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.93062
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -44.34904
+Failed! Reward: -54.86187
+Failed! Reward: -54.13101
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -54.99152
+Failed! Reward: -55
+Failed! Reward: -49.94754
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -44.83942
+Failed! Reward: -52.20817
+Failed! Reward: -53.85748
+Failed! Reward: -58.7509
+Failed! Reward: -54.98371
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55.11759
+Failed! Reward: -123.559
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -48.0951
+Failed! Reward: -81.41646
+Failed! Reward: -55
+Failed! Reward: -48.77525
+Failed! Reward: -49.37079
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -9.281052
+Failed! Reward: -55
+Failed! Reward: -51.41072
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -58.85436
+Failed! Reward: -55
+Failed! Reward: -53.40887
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -56.88567
+Failed! Reward: -54.89559
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -48.02557
+Failed! Reward: -72.53081
+Failed! Reward: -53.94425
+Failed! Reward: -53.39907
+Failed! Reward: -55.13373
+Failed! Reward: -53.72974
+Failed! Reward: -54.98447
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55
+Failed! Reward: -55.7575
+Failed! Reward: -54.61007
+Failed! Reward: -55
+Failed! Reward: -54.86241
+Failed! Reward: -53.2736
+Failed! Reward: -55
+Failed! Reward: -55.70632
+Failed! Reward: -53.48389
+Failed! Reward: -54.92878
+Unable to save timers to file E:/UnityRobotBuilds/UnityRobot_Data\ML-Agents\Timers\SampleScene_timers.json
+Setting up 6 worker threads for Enlighten.
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 35799 frames, [2.0 MB-4.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.1 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 480.0 KB
+      Peak Allocated Bytes 350.3 KB
+      Overflow Count 11
+    [ALLOC_TEMP_Background Job.worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 10.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 6
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 89.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 11
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 201 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 27
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 2.5 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 35800 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 24.4 MB
+      Peak Large allocation bytes 8.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 35800 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 30.9 MB
+      Peak Large allocation bytes 21.3 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 1
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 2.5 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 35799 frames, [64.0 KB-128.0 KB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 109.4 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [256.0 KB-0.5 MB]: 35800 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 378.3 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 2
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 2.5 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 35800 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.5 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 35799 frames, [16.0 MB-32.0 MB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 6
+      Peak Allocated memory 19.1 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 2.5 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 35800 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 4.1 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 35800 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 6.8 KB
+      Peak Large allocation bytes 0 B

@@ -1,0 +1,65 @@
+{
+    "MoveToTarget": {
+        "checkpoints": [
+            {
+                "steps": 1999999,
+                "file_path": "results\\test77\\MoveToTarget\\MoveToTarget-1999999.onnx",
+                "reward": -2.0,
+                "creation_time": 1706112199.96745,
+                "auxillary_file_paths": [
+                    "results\\test77\\MoveToTarget\\MoveToTarget-1999999.pt"
+                ]
+            },
+            {
+                "steps": 2499999,
+                "file_path": "results\\test77\\MoveToTarget\\MoveToTarget-2499999.onnx",
+                "reward": -1.5359116022099448,
+                "creation_time": 1706112362.176327,
+                "auxillary_file_paths": [
+                    "results\\test77\\MoveToTarget\\MoveToTarget-2499999.pt"
+                ]
+            },
+            {
+                "steps": 2999948,
+                "file_path": "results\\test77\\MoveToTarget\\MoveToTarget-2999948.onnx",
+                "reward": -1.5922330097087378,
+                "creation_time": 1706112520.1605594,
+                "auxillary_file_paths": [
+                    "results\\test77\\MoveToTarget\\MoveToTarget-2999948.pt"
+                ]
+            },
+            {
+                "steps": 3499956,
+                "file_path": "results\\test77\\MoveToTarget\\MoveToTarget-3499956.onnx",
+                "reward": -2.0,
+                "creation_time": 1706112675.1830244,
+                "auxillary_file_paths": [
+                    "results\\test77\\MoveToTarget\\MoveToTarget-3499956.pt"
+                ]
+            },
+            {
+                "steps": 3531082,
+                "file_path": "results\\test77\\MoveToTarget\\MoveToTarget-3531082.onnx",
+                "reward": null,
+                "creation_time": 1706112684.37279,
+                "auxillary_file_paths": [
+                    "results\\test77\\MoveToTarget\\MoveToTarget-3531082.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3531082,
+            "file_path": "results\\test77\\MoveToTarget.onnx",
+            "reward": null,
+            "creation_time": 1706112684.37279,
+            "auxillary_file_paths": [
+                "results\\test77\\MoveToTarget\\MoveToTarget-3531082.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.1.1+cpu"
+    }
+}

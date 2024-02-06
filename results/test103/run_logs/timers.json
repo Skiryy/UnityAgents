@@ -1,0 +1,42 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1706366609",
+        "python_version": "3.9.13 (tags/v3.9.13:6de2ca5, May 17 2022, 16:36:42) [MSC v.1929 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\skiry\\UnityRobot\\venv\\Scripts\\mlagents-learn E:\\UnityRobot\\Assets\\Config\\MoveToTarget.yaml --run-id=test103 --num-envs=40 --env=E:\\UnityRobotBuilds",
+        "mlagents_version": "0.30.0",
+        "mlagents_envs_version": "0.30.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.1.1+cpu",
+        "numpy_version": "1.26.3",
+        "end_time_seconds": "1706366685"
+    },
+    "total": 75.33812520000001,
+    "count": 1,
+    "self": 12.329919500000017,
+    "children": {
+        "run_training.setup": {
+            "total": 17.064638799999997,
+            "count": 1,
+            "self": 17.064638799999997
+        },
+        "TrainerController.start_learning": {
+            "total": 45.94356689999999,
+            "count": 1,
+            "self": 0.0011962999999894919,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 45.9382296,
+                    "count": 1,
+                    "self": 45.9382296
+                },
+                "TrainerController._save_models": {
+                    "total": 0.004141000000004169,
+                    "count": 1,
+                    "self": 0.004141000000004169
+                }
+            }
+        }
+    }
+}

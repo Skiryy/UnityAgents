@@ -1,0 +1,1017 @@
+Mono path[0] = 'E:/UnityRobotBuilds/UnityRobot_Data/Managed'
+Mono config path = 'E:/UnityRobotBuilds/MonoBleedingEdge/etc'
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Initialize engine version: 2022.3.14f1 (eff2de9070d8)
+[Subsystems] Discovering subsystems at path E:/UnityRobotBuilds/UnityRobot_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 (ID=0x2184)
+    Vendor:   NVIDIA
+    VRAM:     5980 MB
+    Driver:   31.0.15.3640
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  4.071 seconds
+- Finished resetting the current domain, in  0.006 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.004600 ms
+Failed! Reward: 249.9386
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 258.3055
+Failed! Reward: 251.8694
+Failed! Reward: 249.9475
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.0839
+Failed! Reward: 250.016
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 251.2817
+Failed! Reward: 249.14
+Failed! Reward: 249.9469
+Failed! Reward: 251.1457
+Failed! Reward: 249.2806
+Failed! Reward: 250
+Failed! Reward: 250.8655
+Failed! Reward: 250
+Failed! Reward: 249.2655
+Failed! Reward: 249.4308
+Failed! Reward: 250.0395
+Failed! Reward: 250.6291
+Failed! Reward: 248.7383
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 269.4131
+Failed! Reward: 250.0182
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 262.223
+Failed! Reward: 250
+Failed! Reward: 249.9093
+Failed! Reward: 249.2147
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.1045
+Failed! Reward: 250.8794
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 248.2939
+Failed! Reward: 250
+Failed! Reward: 251.3365
+Failed! Reward: 247.9171
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9049
+Failed! Reward: 250
+Failed! Reward: 250.9972
+Failed! Reward: 257.5643
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 248.9562
+Failed! Reward: 257.5174
+Failed! Reward: 250.0475
+Failed! Reward: 250
+Failed! Reward: 254.431
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.3051
+Failed! Reward: 252.0683
+Failed! Reward: 251.2118
+Failed! Reward: 250
+Failed! Reward: 250.9846
+Failed! Reward: 250
+Failed! Reward: 249.9813
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 248.0659
+Failed! Reward: 250.33
+Failed! Reward: 253.3108
+Failed! Reward: 250
+Failed! Reward: 249.9997
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 245.0092
+Failed! Reward: 249.9128
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.0406
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 252.0619
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 270.8919
+Failed! Reward: 249.9331
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9763
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 245.373
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 242.8926
+Failed! Reward: 249.4548
+Failed! Reward: 245.9559
+Failed! Reward: 283.1211
+Failed! Reward: 250
+Failed! Reward: 248.9337
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.871
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 253.0956
+Failed! Reward: 226.3553
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9166
+Failed! Reward: 247.3507
+Failed! Reward: 250
+Failed! Reward: 244.9056
+Failed! Reward: 250
+Failed! Reward: 229.1636
+Failed! Reward: 250
+Failed! Reward: 250.0527
+Failed! Reward: 250
+Failed! Reward: 243.8405
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 248.962
+Failed! Reward: 253.4655
+Failed! Reward: 249.835
+Failed! Reward: 252.9756
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 248.8685
+Failed! Reward: 240.2681
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.0076
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 251.653
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.1898
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9873
+Failed! Reward: 250
+Failed! Reward: 252.6716
+Failed! Reward: 249.9825
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 232.3412
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.1129
+Failed! Reward: 248.655
+Failed! Reward: 242.6125
+Failed! Reward: 250
+Failed! Reward: 262.0902
+Failed! Reward: 256.7034
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9747
+Failed! Reward: 250.3673
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 255.2266
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 251.8969
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.0532
+Failed! Reward: 249.039
+Failed! Reward: 250.022
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 245.1868
+Failed! Reward: 250
+Failed! Reward: 248.2471
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 247.8357
+Failed! Reward: 253.347
+Failed! Reward: 250
+Failed! Reward: 213.6432
+Failed! Reward: 250
+Failed! Reward: 249.836
+Failed! Reward: 250
+Failed! Reward: 254.2994
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.0125
+Failed! Reward: 255.9553
+Failed! Reward: 247.6854
+Failed! Reward: 250
+Failed! Reward: 233.9243
+Failed! Reward: 250
+Failed! Reward: 249.9773
+Failed! Reward: 249.8644
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.7427
+Failed! Reward: 249.1675
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.0093
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.8429
+Failed! Reward: 249.784
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.3271
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.5434
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 246.4107
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9834
+Failed! Reward: 250
+Failed! Reward: 252.8408
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 244.1523
+Failed! Reward: 250.1255
+Failed! Reward: 249.9887
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9322
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 260.0049
+Failed! Reward: 250.0331
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 256.8627
+Failed! Reward: 250.088
+Failed! Reward: 247.6839
+Failed! Reward: 249.8476
+Failed! Reward: 250.5336
+Failed! Reward: 231.3555
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.1323
+Failed! Reward: 250
+Failed! Reward: 249.2348
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9155
+Failed! Reward: 250
+Failed! Reward: 250.8492
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.0248
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 251.5921
+Failed! Reward: 250.0426
+Failed! Reward: 250
+Failed! Reward: 264.8484
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9625
+Failed! Reward: 250
+Failed! Reward: 252.7207
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 251.4367
+Failed! Reward: 243.5676
+Failed! Reward: 250
+Failed! Reward: 256.4928
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 245.7059
+Failed! Reward: 253.7882
+Failed! Reward: 250.0736
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 246.4923
+Failed! Reward: 251.7306
+Failed! Reward: 249.4127
+Failed! Reward: 248.5013
+Failed! Reward: 243.8998
+Failed! Reward: 250
+Failed! Reward: 247.6926
+Failed! Reward: 255.2783
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 251.177
+Failed! Reward: 248.1584
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 251.3528
+Failed! Reward: 251.3017
+Failed! Reward: 248.1497
+Failed! Reward: 250
+Failed! Reward: 249.4374
+Failed! Reward: 250.2636
+Failed! Reward: 250
+Failed! Reward: 250.397
+Failed! Reward: 250.5701
+Failed! Reward: 250
+Failed! Reward: 248.9917
+Failed! Reward: 250
+Failed! Reward: 254.1168
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 251.4315
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.114
+Failed! Reward: 250
+Failed! Reward: 249.6957
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 226.262
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9817
+Failed! Reward: 250.8892
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.0725
+Failed! Reward: 250
+Failed! Reward: 250.5458
+Failed! Reward: 250
+Failed! Reward: 281.9578
+Failed! Reward: 250
+Failed! Reward: 252.5198
+Failed! Reward: 267.2746
+Failed! Reward: 250
+Failed! Reward: 250.112
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.5484
+Failed! Reward: 242.3797
+Failed! Reward: 250
+Failed! Reward: 217.1034
+Failed! Reward: 250.0409
+Failed! Reward: 250
+Failed! Reward: 253.6343
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 252.7558
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9114
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.8123
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 248.3976
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9815
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.6878
+Failed! Reward: 250.0316
+Failed! Reward: 250.2792
+Failed! Reward: 250
+Failed! Reward: 247.3685
+Failed! Reward: 261.8413
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.7235
+Failed! Reward: 250.1327
+Failed! Reward: 250
+Failed! Reward: 200.071
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 251.0508
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 251.9074
+Failed! Reward: 250
+Failed! Reward: 249.5851
+Failed! Reward: 247.5434
+Failed! Reward: 250
+Failed! Reward: 249.976
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 247.8607
+Failed! Reward: 250
+Failed! Reward: 250.1019
+Failed! Reward: 250.0171
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.2661
+Failed! Reward: 250
+Failed! Reward: 252.2953
+Failed! Reward: 250.0491
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 251.3767
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 247.1407
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.954
+Failed! Reward: 249.8718
+Failed! Reward: 249.9233
+Failed! Reward: 250
+Failed! Reward: 250.1747
+Failed! Reward: 248.1445
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.935
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 248.8851
+Failed! Reward: 239.324
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.0591
+Failed! Reward: 242.2419
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 284.7145
+Failed! Reward: 250
+Failed! Reward: 249.9484
+Failed! Reward: 247.3644
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 257.7051
+Failed! Reward: 264.2286
+Failed! Reward: 251.0231
+Failed! Reward: 249.9739
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.5685
+Failed! Reward: 260.4605
+Failed! Reward: 250
+Failed! Reward: 249.7433
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.5812
+Failed! Reward: 232.4201
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9594
+Failed! Reward: 250.9362
+Failed! Reward: 249.4013
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.8348
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 284.9977
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.0187
+Failed! Reward: 249.6305
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 255.7382
+Failed! Reward: 242.4322
+Failed! Reward: 242.8842
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.0801
+Failed! Reward: 276.5021
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.939
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9934
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.1258
+Failed! Reward: 249.7698
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 225.2793
+Failed! Reward: 249.9584
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 252.0646
+Failed! Reward: 259.293
+Failed! Reward: 250.0369
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.9819
+Failed! Reward: 254.5024
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.2455
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 244.0855
+Failed! Reward: 246.1857
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.0715
+Failed! Reward: 250
+Failed! Reward: 246.2828
+Failed! Reward: 247.0384
+Failed! Reward: 250.051
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 256.0276
+Failed! Reward: 239.7568
+Failed! Reward: 249.2597
+Failed! Reward: 250.0503
+Failed! Reward: 250.1955
+Failed! Reward: 250
+Failed! Reward: 250.0733
+Failed! Reward: 249.8857
+Failed! Reward: 250
+Failed! Reward: 250.7882
+Failed! Reward: 249.948
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 282.3111
+Failed! Reward: 249.9693
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.4166
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.2667
+Failed! Reward: 209.5512
+Failed! Reward: 246.4837
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.3393
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 246.6215
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9041
+Failed! Reward: 250
+Failed! Reward: 249.6905
+Failed! Reward: 250
+Failed! Reward: 249.2715
+Failed! Reward: 250
+Failed! Reward: 250.0907
+Failed! Reward: 250.0149
+Failed! Reward: 250
+Failed! Reward: 249.5996
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.9955
+Failed! Reward: 249.3788
+Failed! Reward: 243.489
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 249.5088
+Failed! Reward: 250
+Failed! Reward: 250.267
+Failed! Reward: 250
+Failed! Reward: 249.9733
+Failed! Reward: 249.5909
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 260.428
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250.6581
+Failed! Reward: 249.566
+Failed! Reward: 250.0776
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 250
+Failed! Reward: 278.9716
+Unable to save timers to file E:/UnityRobotBuilds/UnityRobot_Data\ML-Agents\Timers\SampleScene_timers.json
+Setting up 6 worker threads for Enlighten.
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 1094 frames, [2.0 MB-4.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.1 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 480.0 KB
+      Peak Allocated Bytes 350.3 KB
+      Overflow Count 11
+    [ALLOC_TEMP_Background Job.worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 89.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 6
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 10.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 14.2 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 11
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 201 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 27
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 2.5 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 1095 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 24.4 MB
+      Peak Large allocation bytes 8.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 1095 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 27.7 MB
+      Peak Large allocation bytes 21.3 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 1
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 2.5 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 1094 frames, [64.0 KB-128.0 KB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 109.4 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [256.0 KB-0.5 MB]: 1095 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 378.3 KB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 2
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 2.5 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 1095 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.5 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 1094 frames, [16.0 MB-32.0 MB]: 1 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 6
+      Peak Allocated memory 19.1 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 2.5 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 1095 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 4.1 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 1095 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 6.8 KB
+      Peak Large allocation bytes 0 B

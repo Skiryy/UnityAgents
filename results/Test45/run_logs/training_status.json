@@ -1,0 +1,29 @@
+{
+    "": {
+        "checkpoints": [
+            {
+                "steps": 3225,
+                "file_path": "results\\Test45\\-3225.onnx",
+                "reward": -2.0,
+                "creation_time": 1705852338.3371694,
+                "auxillary_file_paths": [
+                    "results\\Test45\\-3225.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3225,
+            "file_path": "results\\Test45\\.onnx",
+            "reward": -2.0,
+            "creation_time": 1705852338.3371694,
+            "auxillary_file_paths": [
+                "results\\Test45\\-3225.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.1.1+cpu"
+    }
+}
